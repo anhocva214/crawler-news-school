@@ -52,7 +52,7 @@ export const SendNewsToMail = async (subject: string, title: string, url: string
             return item.email
         else return ""
     })
-    let emails: any = temp.reduce((a: any, b: any) => a + "," + b);
+    let emails: any = temp.reduce((a: any, b: any) => a + "," + b,'');
 
     console.log(emails);
 
