@@ -19,3 +19,7 @@ export const ChannelsCode : {[key:string]: object} = {
         other: "Thông báo khác"
     }
 }
+
+
+
+export const discordHookURL=['https://discord.com/api/webhooks/893738001606270996/V7gp2v0h31JvVunDUtUab7uXdw-VO9s9PIVJ-wUg99ZtSZ6IM-xyS3FwXtRr7JG43EdK','https://discord.com/api/webhooks/893695576493940757/qOsig-kRXyx-lk95PkNQ5GEDWw9kP-drXnT1y1YGlDT_CoVudxLqEIndSXafh2kiK8tT']
